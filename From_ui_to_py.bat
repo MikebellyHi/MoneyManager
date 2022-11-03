@@ -1,0 +1,1 @@
+pyuic5.exe -x C:\Programms\MoneyManager\ui_main.ui -o C:\Programms\MoneyManager\MainDesignRep.py
